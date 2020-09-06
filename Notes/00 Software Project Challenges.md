@@ -39,7 +39,6 @@ What are the risks?
 ## Requirements
 
 Which features should be produced?
-
 What are the non-functional requirements?
 
 - reliability
@@ -84,7 +83,6 @@ High level design and architecture
 - maintenance
 
 Low level design (similar to high level design)
-
 Programming
 
 - creation methods (ex: pairs, coding standards)
