@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 
 /**
  * Parses a GEDCOM file to determine if each line is in a valid format.
- * To run, run 'java com.gedcom.ReadLine [Path from Content Root] from
+ * To run, run 'java com.gedcom.ReadLine [Path from Content Root in src] from
  * the directory "/out/production/gedcom".
  *
  * @author Liam Brew
